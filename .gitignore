@@ -1,0 +1,9 @@
+/packages
+/selenium-csharp-first-test/bin
+/selenium-csharp-first-test/bin/Debug
+/selenium-csharp-first-test/bin/Debug/Release
+/selenium-csharp-first-test/obj/Debug
+/selenium-csharp-first-test/obj/Debug/TempPE
+/TestResults
+/.vs
+
